@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     var woodStr:String!
     override func viewDidLoad() {
         super.viewDidLoad()
-        //  totalArray = [bollywoodActors,tollywoodActors,mollywoodActors,kollywoodActors]
+        
         tableVIEW.sectionIndexColor = #colorLiteral(red: 0, green: 0, blue: 0, alpha: 1)
         headerArray = ["Bollywood","Tollywood","Mollywood","Kollywood"]
     }
