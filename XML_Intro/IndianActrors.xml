@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IndianActors>
+<Bollywood>
+<Actor>Amithab Bachan</Actor>
+<Actor>ShahRukh Khan</Actor>
+<Actor>Nanna Patekar</Actor>
+<Actor>NasserUddin Shah</Actor>
+<Actor>Anupam Kher</Actor>
+</Bollywood>
+<Tollywood>
+<Actor>Chiranjeevi</Actor>
+<Actor>Venkatesh</Actor>
+<Actor>BalaKrishna</Actor>
+<Actor>Nagarjuna</Actor>
+<Actor>Mahesh Babu</Actor>
+</Tollywood>
+<Mollywood>
+<Actor>Dulqer Salman</Actor>
+<Actor>Nivin Pauly</Actor>
+<Actor>Mamooty</Actor>
+<Actor>Mohan Lal</Actor>
+<Actor>Prithviraj Sukumaran</Actor>
+</Mollywood>
+<Kollywood>
+<Actor>RajniKanth</Actor>
+<Actor>KamalHasan</Actor>
+<Actor>Vijay Sethupathi</Actor>
+<Actor>Vijay</Actor>
+<Actor>Ajith</Actor>
+</Kollywood>
+</IndianActors>
+
